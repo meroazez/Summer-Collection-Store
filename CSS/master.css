@@ -212,7 +212,7 @@ header form input[type="search"] {
         width: calc((100% - 60px) / 2);
     }
     .products .product-content .box .cart {
-        width: 90%;
+        width: 100%;
     }
 }
 .products .product-content .box img {
